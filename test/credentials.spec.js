@@ -533,6 +533,7 @@ const exp = require('constants');
               'sso_start_url': 'https://d-abc123.awsapps.com/start',
               'sso_account_id': '012345678901',
               'sso_region': 'us-east-1',
+              'sso_session': 'us-east-1',
               'sso_role_name': 'some-role'
             }
           };
